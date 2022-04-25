@@ -307,13 +307,16 @@ img {
 }
 
 .testimonials-author strong {
+    font-size: 0.625rem;
     display: block;
-    line-height: 1.2;
+    line-height: 1.5;
     letter-spacing: 0.04em;
 }
 
 .testimonials-author p span {
     font-size: 9px;
+    line-height: 1.5;
+    display: block;
 }
 
 .early-access {
